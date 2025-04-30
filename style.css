@@ -29,7 +29,7 @@ header > h1 {
 padding-top: 50px;
 font-variant: small-caps;
 font-family: var(--font02);
-font-size: 12vw;
+font-size: 10vw;
 
 }
 
@@ -42,7 +42,7 @@ section {
     padding-top: 10vh;
     padding-bottom: 10vh;
     padding-left: 30px;
-    font-size: 10vw;
+    font-size: 8vw;
 
 }
 section > p {
@@ -62,7 +62,7 @@ section.normal {
 
 p {
     font-family: var(--font03);
-    font-size: 5vw;
+    font-size: 4vw;
 }
 
 section.img {
